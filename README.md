@@ -1,6 +1,6 @@
 ### Olga Ostrovskiy
 
-Founder of [My Storyland](https://mystoryland.ai): give it a book, get a trip. Tech Lead at AstraZeneca by day.
+Tech Lead at AstraZeneca, building AI platforms for drug discovery. In my free time I work on my own startup, [My Storyland](https://mystoryland.ai): give it a book, get a trip.
 
 **Here**
 - [storyland-ai](https://github.com/o-ostrovskiy/storyland-ai): the multi-agent backend behind My Storyland (Google ADK, Gemini, Langfuse). Evals and judge calibration included.
